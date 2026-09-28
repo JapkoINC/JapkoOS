@@ -14,7 +14,7 @@
 
 1. Clone this repository:
 
-   git clone [https://github.com/TWOJ_USERNAME/japko-os.git](https://github.com/TWOJ_USERNAME/japko-os.git)
+   git clone [https://github.com/JapkoINC/japko-os.git](https://github.com/TWOJ_USERNAME/japko-os.git)
    cd japko-os
    
 2.Generate the ISO build configuration:
