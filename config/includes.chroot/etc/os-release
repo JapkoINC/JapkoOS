@@ -1,0 +1,6 @@
+NAME="Japko OS"
+VERSION="1.0"
+ID=japkoos
+ID_LIKE=debian
+PRETTY_NAME="Japko OS v1.0"
+HOME_URL="https://japkoinc.itch.io/"
